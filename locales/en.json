@@ -1,0 +1,91 @@
+{
+  "mirqat": {
+    "appName": "MIRQAT",
+    "appSubtitle": "Elevate Your Knowledge, Draw Closer"
+  },
+  "navigation": {
+    "home": "Home",
+    "quran": "Quran",
+    "adhkar": "Adhkar",
+    "prayer": "Prayer",
+    "ai": "AI Assistant",
+    "academy": "Academy",
+    "profile": "Profile"
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "settings": "Settings",
+    "logout": "Sign Out"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password"
+  },
+  "home": {
+    "verseOfDay": "Verse of the Day",
+    "hadithOfDay": "Hadith of the Day",
+    "todayAdkhar": "Today's Adhkar",
+    "upcomingPrayer": "Upcoming Prayer",
+    "yourProgress": "Your Progress",
+    "todayQuiz": "Today's Quiz"
+  },
+  "quran": {
+    "title": "The Holy Quran",
+    "surah": "Surah",
+    "ayah": "Ayah",
+    "juz": "Juz",
+    "hizb": "Hizb",
+    "readMore": "Read More",
+    "tafsir": "Tafsir",
+    "search": "Search Quran",
+    "bookmarks": "Bookmarks",
+    "notes": "Notes"
+  },
+  "prayer": {
+    "prayerTimes": "Prayer Times",
+    "fajr": "Fajr",
+    "sunrise": "Sunrise",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "location": "Location",
+    "qibla": "Qibla"
+  },
+  "adhkar": {
+    "title": "Adhkar & Duas",
+    "morningAdhkar": "Morning Adhkar",
+    "eveningAdhkar": "Evening Adhkar",
+    "sleepAdhkar": "Sleep Adhkar",
+    "count": "Count"
+  },
+  "ai": {
+    "assistant": "AI Assistant",
+    "askQuestion": "Ask a Question",
+    "source": "Source",
+    "related": "Related"
+  },
+  "errors": {
+    "networkError": "Network Error",
+    "loadingError": "Loading Error",
+    "tryAgain": "Try Again",
+    "noData": "No Data Available"
+  }
+}
